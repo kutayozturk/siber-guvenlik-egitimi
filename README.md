@@ -4,7 +4,7 @@ Bu bölümde **Siber Günevlik** ***(Cyber Security)*** üzerine farklı konular
 
 <ul>
       <li><a href="https://github.com/kutayozturk/dos-ddos-saldiri-savunma">DoS/DDoS Saldırıları ve Savunma Yöntemleri </a></li> 
-      <li><a href="https://github.com/kutayozturk/guvenlik-testi-egitim">Güvenlik Testi Eğitimi</a></li> 
+      <li><a href="https://github.com/kutayozturk/guvenlik-testi-egitimi">Güvenlik Testi Eğitimi</a></li> 
       
       
 </ul>
